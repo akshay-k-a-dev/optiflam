@@ -1,7 +1,7 @@
 
 # Optiflam 🔥
 
-![Optiflam Logo]([https://path-to-your-logo.png](https://github.com/akshay-k-a-dev/optiflam/blob/main/coconut%20._20240720_210836_0000.png)) <!-- Replace with your actual logo URL -->
+![Optiflam Logo](https://github.com/akshay-k-a-dev/optiflam/blob/main/coconut%20._20240720_210836_0000.png) <!-- Replace with your actual logo URL -->
 
 ## 🌐 Welcome to the Optiflam Backup Resort!
 
